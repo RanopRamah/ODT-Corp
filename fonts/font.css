@@ -1,0 +1,53 @@
+@font-face {
+    font-family: SF-Regular;
+    src: url('SFPRODISPLAYREGULAR.OTF');
+}
+
+@font-face {
+    font-family: SF-Bold;
+    src: url('SFPRODISPLAYBOLD.OTF');
+}
+
+@font-face {
+    font-family: SF-Medium;
+    src: url('SFPRODISPLAYMEDIUM.OTF');
+}
+
+@font-face {
+    font-family: SF-Light;
+    src: url('SF-Pro-Display-Light.otf');
+}
+
+@font-face {
+    font-family: SF-SemiBold;
+    src: url('SF-Pro-Display-Semibold.otf');
+}
+
+@font-face {
+    font-family: ECB-Logo;
+    src: url('Euclid\ Circular\ B\ SemiBold.ttf');
+}
+
+.ff-logo {
+    font-family: ECB-Logo;
+}
+
+.ff-sfLight {
+    font-family: SF-Light;
+}
+
+.ff-sfSemibold {
+    font-family: SF-Bold;
+}
+
+.ff-sfMedium {
+    font-family: SF-Medium;
+}
+
+.ff-sfBold {
+    font-family: SF-Bold;
+}
+
+.ff-sfRegular {
+    font-family: SF-Regular;
+}
